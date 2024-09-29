@@ -110,6 +110,7 @@ body {
  gap: 0.75rem;
  justify-content: center;
  align-items: center;
+  text-align: center;
 
 
 
@@ -119,7 +120,7 @@ body {
  background-color: var(--clr-primary-400);
  color: var(--clr-neutral-100);
  font-weight: var(--fw-bold);
- font-size: 0.925rem;
+ font-size: 1rem;
 }
 
 .button[data-icon="shopping-cart"]::before{
